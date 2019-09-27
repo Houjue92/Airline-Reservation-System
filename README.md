@@ -1,6 +1,6 @@
 # Airline-Reservation-System
 
-Attention!! You can only open .Java file directly here, .class file will automatically downloaded when you try to open it.
+Attention!! If you try to openning source, prefer to open .Java file. The .class file in Github is trivial. You can only open .Java file directly here, .class file will automatically downloaded when you try to open it.
 
 This is a group class project developed my me and teammates.
 
