@@ -1,7 +1,5 @@
 # Airline-Reservation-System
 
-Attention!! If you try to openning source, please prefer to open .Java file. The .class file in Github is trivial. You can only open .Java file directly here, .class file will automatically downloaded when you try to open it.
-
 This is a group class project developed my me and teammates.
 
 • Created Requirement Analysis Document, including use case diagrams and class diagram, to understand client requirements and capture the purpose and functions of the system.
